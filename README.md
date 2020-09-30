@@ -1,2 +1,2 @@
 # Responsive-Website-Design-
-How to create the Responsive website Using HTML and CSS 
+How to create a Responsive website Using easy Languages like HTML and CSS. 
